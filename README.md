@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gerardo</h1>
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Web3**
 
 - 💬 Ask me about **react, Vanilla JavaScript, HTML, CSS**
 
