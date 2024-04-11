@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gerardo</h1>
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
 
-- 🌱 I’m currently learning **Web3**
+¡Hello There I am a Self-taught full-stack web developer passionate about JavaScript for frontend and backend development. Strong problem-solving skills, collaborative mindset, and always staying current with web trends. Let's build something great together!
 
 - 💬 Ask me about **react, Vanilla JavaScript, HTML, CSS**
 
